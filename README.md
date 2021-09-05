@@ -1,1 +1,1 @@
-# senpai-society-bot-real
+# senpai-society-bot
