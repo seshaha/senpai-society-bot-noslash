@@ -418,4 +418,4 @@ if(message.content.toLowerCase().startsWith('+timer')){
     
 
 })
-client.login("ODc5MDEzOTEyOTM3MzY5NjMw.YSJjgA.zC64v3QLHc4qmgIBwrBHqAh79yA")
+client.login("<YOUR BOT'S TOKEN>")
